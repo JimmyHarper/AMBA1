@@ -736,7 +736,7 @@
             "value": "[parameters('userAssignedManagedIdentityName')]"
           },
           "uamiLocation": {
-            "value": "[parameters('ALZMonitorResourceGroupLocation')]"
+            "value": "usgovvirginia"
           },
           "uamiResourceGroupName": {
             "value": "[parameters('ALZMonitorResourceGroupName')]"
@@ -1847,4 +1847,5 @@
     }
   }
 }
+
 
