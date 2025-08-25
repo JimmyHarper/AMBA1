@@ -11,7 +11,7 @@
     },
     "uamiLocation": {
       "type": "string",
-      "defaultValue": "northeurope",
+      "defaultValue": "usgovvirginia",
       "metadata": {
         "description": "The location of the User Assigned Managed Identity."
       }
