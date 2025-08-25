@@ -721,7 +721,7 @@
       "apiVersion": "2022-09-01",
       "name": "[variables('deploymentNames').AMBAUserAssignedManagedIdentityDeploymentName]",
       "subscriptionId": "[parameters('managementSubscriptionId')]",
-      "location": "[deployment().location]",
+      "location": "usgovvirginia",
       "dependsOn": [
         "[variables('deploymentNames').AMBAResourceGroupDeploymentName]"
       ],
@@ -1847,3 +1847,4 @@
     }
   }
 }
+
