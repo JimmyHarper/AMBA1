@@ -216,8 +216,7 @@
       "type": "string",
       "defaultValue": "id-amba-prod-001",
       "metadata": {
-        "description": "Specify the name of the user assigned managed identity for monitoring purpose.",
-        "location":"usgovvirginia"
+        "description": "Specify the name of the user assigned managed identity for monitoring purpose."
       }
     },
     "managementSubscriptionId": {
@@ -235,7 +234,7 @@
     },
     "ALZMonitorResourceGroupLocation": {
       "type": "string",
-      "defaultValue": "usgovvirginia",
+      "defaultValue": "northeurope",
       "metadata": {
         "description": "Provide the location of the resource group for Azure Monitor Baseline Alerts."
       }
