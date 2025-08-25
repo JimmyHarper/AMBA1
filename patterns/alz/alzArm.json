@@ -234,7 +234,7 @@
     },
     "ALZMonitorResourceGroupLocation": {
       "type": "string",
-      "defaultValue": "northeurope",
+      "defaultValue": "usgovvirginia",
       "metadata": {
         "description": "Provide the location of the resource group for Azure Monitor Baseline Alerts."
       }
