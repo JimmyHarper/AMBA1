@@ -727,6 +727,7 @@
       ],
       "properties": {
         "mode": "Incremental",
+        "location": "usgovvirginia",
         "templateLink": {
           "contentVersion": "1.0.0.0",
           "uri": "[variables('deploymentUris').AMBAUserAssignedManagedIdentity]"
@@ -1847,5 +1848,6 @@
     }
   }
 }
+
 
 
