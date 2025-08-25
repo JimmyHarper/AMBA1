@@ -216,7 +216,8 @@
       "type": "string",
       "defaultValue": "id-amba-prod-001",
       "metadata": {
-        "description": "Specify the name of the user assigned managed identity for monitoring purpose."
+        "description": "Specify the name of the user assigned managed identity for monitoring purpose.",
+        "location":"usgovvirginia"
       }
     },
     "managementSubscriptionId": {
